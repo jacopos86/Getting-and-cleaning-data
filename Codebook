@@ -1,0 +1,24 @@
+# file descriptions
+in the main folder you can find
+
+1- README.txt: overview of how the data was collected and prepared
+
+2- features_info.txt: informations about the meaning of the variables in the data set
+
+3- features.txt: list of data set's variables
+
+4- activity_labels.txt: list of the different activities performed by the individuals in the experiment
+
+5- run_analysis.r: R script producing the final tidy data set
+
+6- final_data.txt: final data set
+
+In folder train and test you can find
+
+8- subject_test/train.txt: file with the individuals list in the test/train data sets
+
+9- y_test/train.txt: file with the list of activities for each subject
+
+10- X_test/train.txt: file with observation data
+
+For a description of run_analysis.r read README.md file
